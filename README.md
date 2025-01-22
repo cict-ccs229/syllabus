@@ -166,16 +166,17 @@ Participation | 10%
 Final Grade = 40% (midterm) + 60% (tentative)
 ***
 
-### Academic Partners
-* Unreal Engine [[link](https://www.unrealengine.com/academic-partners)]
-* [Xenko](http://xenko.com/) (In progress)
-* Aseprite (In progress) visit https://www.aseprite.org/educational/ for more info.
-
 ## Resources
 ### Recommended Reading
 > In random order.
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) by Joseph Misiti 
+* [Machine Learning Resources](https://github.com/josephmisiti/awesome-machine-learning) by Joseph Misiti 
+* [Best of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) by ml-tooling
+* [Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) by endymecy
+* [NLP Reources](https://github.com/keon/awesome-nlp) by keon
+* [Computer Vision Resources](https://github.com/jbhuang0604/awesome-computer-vision) by 
+View jbhuang0604's full-sized avatar
+Jia-Bin Huang 
 
 
 ***
