@@ -64,7 +64,7 @@ Prerequisite: CC 226 / CC 203
 2024-2025 | Second | M 09:00AM-12:00PM ICT 206/W 10:00AM-12:00PM ICT 206 |
 
 #### Course Description
-> This course provides students with an in-depth introduction to technologies and best practices used in the game and entertainment development industry today and is focused on rapidly developing game prototypes.
+> This course provides an introduction to the fundamental concepts and techniques of Artificial Intelligence (AI) and Intelligent Systems. 
 
 **Topics include** 
 * Foundations of AI
