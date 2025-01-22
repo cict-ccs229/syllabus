@@ -102,8 +102,7 @@ Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
  * Functions should be short (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
  * Code should be optimized for readability
  * Source code submissions should be accompanied by a README.md file which include a short description of your work.
-* Knowledge of using 2D and 3D multimedia applications.
-* Basic understanding of 3D graphics (Modelling, Texturing, Rendering, Animation... etc.).
+* Basic understanding of App Development Framework (Flutter, Qt, React...etc).
 * Basic knowledge of multi-platform development.
 
 > These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
@@ -174,9 +173,7 @@ Final Grade = 40% (midterm) + 60% (tentative)
 * [Best of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) by ml-tooling
 * [Deep Learning Resources](https://github.com/endymecy/awesome-deeplearning-resources) by endymecy
 * [NLP Reources](https://github.com/keon/awesome-nlp) by keon
-* [Computer Vision Resources](https://github.com/jbhuang0604/awesome-computer-vision) by 
-View jbhuang0604's full-sized avatar
-Jia-Bin Huang 
+* [Computer Vision Resources](https://github.com/jbhuang0604/awesome-computer-vision) by Jia-Bin Huang 
 
 
 ***
